@@ -24,7 +24,7 @@ except:
     pass
 
 
-UPSTREAM_REPO = 'https://github.com/SN-Abdullah-Al-Noman/SN_WZML'
+UPSTREAM_REPO = 'https://github.com/MrKnl5/SN-WZML-Modified'
 UPSTREAM_BRANCH = environ.get('UPSTREAM_BRANCH', '')
 if len(UPSTREAM_BRANCH) == 0:
     UPSTREAM_BRANCH = 'master'
